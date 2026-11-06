@@ -1,0 +1,24 @@
+# Ambientes virtuais (Python)
+.venv/
+venv/
+env/
+
+# Caches do Python
+__pycache__/
+*.py[cod]
+
+# Dependências e builds do Node/Frontend
+node_modules/
+dist/
+dist-ssr/
+
+# Arquivos de ambiente locais com senhas
+.env
+.env.local
+*.local
+
+# Logs e IDEs
+*.log
+.vscode/
+.idea/
+.DS_Store
