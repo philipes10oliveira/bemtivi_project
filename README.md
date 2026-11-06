@@ -1,4 +1,4 @@
-# 🚀 Bemtive SmartTask — Platform & API
+# 🚀 Bemtevi SmartTask — Platform & API
 
 Plataforma inteligente de alocação de tarefas e gestão de talentos. O projeto utiliza **FastAPI** no backend, **SQLAlchemy** como ORM, **Supabase (PostgreSQL)** como banco de dados na nuvem e **React + Vite** no frontend.
 
